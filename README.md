@@ -17,7 +17,7 @@ Make sure you have granted your preferred terminal app accessibility permissions
 Save the script to your machine and then open with the following
 
 - cd /location of script
-- sudo scriptname.py
+- sudo python3 AutoPress.py
 
 #### How do I use the script?
 
